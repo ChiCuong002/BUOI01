@@ -1,0 +1,24 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.gioithieu{
+    text-align: center;
+}
+.bai2{
+    text-align: center;
+}
+#hinh2{
+    width: 80%;
+    margin: 0 auto;
+    padding:20px;
+}
+#cau3{
+    background-image: url("Hinh anh/HOAVAN.jpg");
+    background-repeat: repeat-x;
+    width: 80%;
+    margin:0 auto;
+    padding:20px;
+    margin-top: 25px;
+}
